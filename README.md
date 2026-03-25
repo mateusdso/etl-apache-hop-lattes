@@ -32,7 +32,3 @@ Os dados foram analisados no Power BI, permitindo visualizar a quantidade de art
 ##  Vídeo
 
 [O vídeo demonstrando o projeto está disponível no link.](https://youtu.be/c3JsS0uW93o)
-
-## 👨‍💻 Autor
-
-Mateus Oliveira
